@@ -4,7 +4,7 @@ Application for on-site internship (Noida)
 # Internship Application — On-site (Noida)
 
 **Name:** Premsagar Dhote  
-**Location:** Rourkela, India  
+**Location:** Bhopal, India  
 **LinkedIn:** https://www.linkedin.com/in/premsagar-dhote-02a00a195/  
 **Email:** premsagardhote2002@gmail.com  
 
