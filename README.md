@@ -4,12 +4,13 @@ Application for on-site internship (Noida)
 # Internship Application — On-site (Noida)
 
 **Name:** Premsagar Dhote  
-**Location:** Bhopal, India  
+**Location:** Rourkela, India  
 **LinkedIn:** https://www.linkedin.com/in/premsagar-dhote-02a00a195/  
 **Email:** premsagardhote2002@gmail.com  
 
 ## Why I’m a good fit
-- Strong background in analog, digital, and mixed-signal circuit design through M.Tech research at NIT Rourkela.  
+- M.Tech in Electronics Systems & Communication (8.67/10 CGPA) from NIT Rourkela.  
+- Strong background in analog, digital, and mixed-signal circuit design through academic research and projects.  
 - Hands-on experience with industry-standard EDA tools like Cadence Virtuoso and Synopsys Sentaurus, and solid programming skills in C/C++, Verilog, and Python.  
 - Practical experience in Computer Organization & Architecture, digital system design, and Linux-based development environments.  
 - Highly motivated, detail-oriented, and available for full-time on-site internship in Noida.  
@@ -25,9 +26,15 @@ Application for on-site internship (Noida)
 - **Temperature-Independent Bandgap Voltage Reference** — Designed in Cadence Virtuoso to meet strict supply voltage and temperature stability requirements.  
 - **Asynchronous FIFO Using Verilog** — Developed a parameterized FIFO for differing read/write frequencies, addressing metastability and ensuring reliable clock domain crossing.  
 
+## Achievements
+- Submitted a research paper to *IEEE Transactions on Nanotechnology* (2025).  
+- Qualified GATE (EE, IN) – IIT Kanpur (2023).  
+- Certified in NPTEL Network Analysis (2021).  
+
 ## Eligibility confirmation
 I confirm I have not held any prior paid employment or paid internship and I am available for an on-site internship in Noida.
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/premsagar-dhote-02a00a195/  
 Email: premsagardhote2002@gmail.com
+
